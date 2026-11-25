@@ -1,4 +1,4 @@
-# KLH_Branch_S03_DSA-1_TeamNo_ShelfSense
+# KLH_AI-DS_S03_DSA-1_05_ShelfSense
 ShelfSense: Library Circulation
 Team No: KLH/DSA-1/S03/T05
 Team Members & ID Numbers:
